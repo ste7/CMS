@@ -263,7 +263,7 @@ $font: Cambria;
 
 /*container*/
 .container-admin{
-  width: 1150px;
+  width: 85%;
   height: 500px;
   position: relative;
   left: 15%;
@@ -336,9 +336,9 @@ $font: Cambria;
 
 /*create page*/
 .cover-img{
-  max-width: 260px;
-  max-height: 140px;
-  min-width: 130px;
+  max-width: 300px;
+  max-height: 160px;
+  min-width: 130px;  /* 13/7 */
   min-height: 70px;
   margin: 0 auto;
   border: 1px solid rgba(24, 97, 114, 0.27);

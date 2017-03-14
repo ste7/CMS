@@ -1,6 +1,6 @@
 CMS
 ===
-It's simple CMS witch i did from scratch and it has basic functions:
+It's simple CMS which I did from scratch and it has basic functions:
 1. create, update and delete articles
 2. create and update users profile
 3. list of articles
