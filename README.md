@@ -14,8 +14,8 @@ It's simple CMS witch i did from scratch and it has basic functions:
 
 ## Admin dashboard
 Open http://localhost/CMS/login.php
-* Username: Admin123
-* Password: admin123
+* Username: ``Admin123``
+* Password: ``admin123``
 
 Screenshots
 -----------
